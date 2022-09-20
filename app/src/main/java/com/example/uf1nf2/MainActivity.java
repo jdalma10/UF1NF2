@@ -29,8 +29,11 @@ public class MainActivity extends AppCompatActivity {
         final Button b1 =findViewById(R.id.boto);
         final Button b2 =findViewById(R.id.boto2);
 
-        //Iniciem etiqueta de text
-        t1.setText(getResources().getString(R.string.resultat)+contador);
+        //Iniciem etiquetes de text
+        t1.setText(getResources().getString(R.string.resultat));
+        b1.setText(getResources().getString(R.string.BSuma));
+
+
 
 
         //afegim listener al botó

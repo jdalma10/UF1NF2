@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">UF1NF2</string>
     <string name="resultat">Nombre de clics: </string>
+    <string name="BSuma">Suma</string>
 </resources>
