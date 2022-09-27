@@ -13,7 +13,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     int contador = 0;
-    final int MAX_CLICKS = 5;
+    final int MAX_CLICKS = 55;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
